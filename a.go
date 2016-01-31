@@ -1,3 +1,3 @@
 package gobuildtest
 
-const A= "from another commit"
+const A= "from this commit"
